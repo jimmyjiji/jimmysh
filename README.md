@@ -4,7 +4,7 @@ Working shell that is executed through bash
 Notable features **included**:
   1. Executable built ins
   2. Multiple Redirection
-  3. Multiple Piping 
+  3. Multiple Piping (in Ubunutu)
   4. Debugging mode with -d command
   5. Launcher Shell Script 
   6. History File Creator/Tracker 

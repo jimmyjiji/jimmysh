@@ -1,0 +1,9 @@
+total 208
+-rw-r--r--  1 JimmyJi  staff    138 Apr  2 02:11 Makefile
+-rw-r--r--  1 JimmyJi  staff    653 Apr  2 02:11 README.md
+-rwxr-xr-x  1 JimmyJi  staff  42088 Apr  2 02:11 jimmysh
+-rw-r--r--  1 JimmyJi  staff  41265 Apr  2 01:55 jimmysh.c
+drwxr-xr-x  3 JimmyJi  staff    102 Apr  2 02:10 jimmysh.dSYM
+-rw-r--r--  1 JimmyJi  staff   3243 Apr  2 01:57 jimmysh.h
+-rw-r--r--  1 JimmyJi  staff    451 Apr  2 02:11 launcher.sh
+-rw-r--r--  1 JimmyJi  staff      0 Apr  2 02:13 test
