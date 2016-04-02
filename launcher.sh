@@ -12,7 +12,7 @@ trap '' 2
 trap "stty $(stty -g)" EXIT
 
 stty  -echo -icanon -isig || exit $?
-./320sh $@
+./jimmysh $@
 
 # Clean up
 set -m
